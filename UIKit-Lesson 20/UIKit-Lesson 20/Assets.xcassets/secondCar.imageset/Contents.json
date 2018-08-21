@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "car-vehicle-sports-car-performance-car-Ronn-Motor-Company-Ronn-Scorpion-supercar-land-vehicle-automotive-design-automobile-make-concept-car-228926.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "car-vehicle-sports-car-performance-car-Ronn-Motor-Company-Ronn-Scorpion-supercar-land-vehicle-automotive-design-automobile-make-concept-car-228927.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "car-vehicle-sports-car-performance-car-Ronn-Motor-Company-Ronn-Scorpion-supercar-land-vehicle-automotive-design-automobile-make-concept-car-228928.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
